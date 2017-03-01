@@ -1,1 +1,4 @@
-
+# include <iostream>  
+# include <fstream>  定义一个流，进行输出？目前不太理解；
+# include <string.h>  
+#include <conio.h>//用getch(); 
